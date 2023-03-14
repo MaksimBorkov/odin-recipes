@@ -1,0 +1,1 @@
+Removed unnecessary recipes to speed up work, added ordered and unordered lists, h2 headers and images
